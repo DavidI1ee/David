@@ -1,1 +1,48 @@
+<DOCTYPE html>
 
+<html>
+    <head>
+        <title>
+            Davids animals 
+        </title>
+    </head>
+    <body>
+       <h1>Favorite animals</h1>
+        <p>
+            <li>
+                 <ol>Peregrine falcon </ol>
+                 <ol>Cheetah</ol>
+                 <ol>Tortoise</ol>
+            <li>
+        </p>
+        <h1>Other animals A-Z</h1>
+        <p>
+            <li>
+                <ul>Alligator</ul>
+                <ul>Bear</ul>
+                <ul>Cheetah</ul>
+                <ul>Dog</ul>
+                <ul>Elephant</ul>
+                <ul>Frog</ul>
+                <ul>Goldfish</ul>
+                <ul>Hamster</ul>
+                <ul>Iguana</ul>
+                <ul>Jaguar</ul>
+                <ul>Kangaroo</ul>
+                <ul>Lion</ul>
+                <ul>Monkey</ul>
+                <ul>Newt</ul>
+                <ul>Octopus</ul>
+                <ul>Peregrine falcon</ul>
+                <ul>Quail</ul>
+                <ul>Rabbit</ul>
+                <ul>Snake</ul>
+                <ul>Tortoise</ul>
+                <ul>Unicornfish</ul>
+                <ul>Viperfish</ul>
+                <ul>Warlus</ul>
+                <ul>Xrayfish</ul>
+                <ul>Yak</ul>
+                <ul>Zebra</ul>
+    </body>
+</html>
