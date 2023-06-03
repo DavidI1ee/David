@@ -1,0 +1,122 @@
+.nav_div{
+    /*background-color: rgb(0, 247, 255);*/
+    padding: 1em;
+    border-radius: 0.5em;
+    color: yellow;
+}
+
+.h1_welcome{
+    color: #ffff;
+    font-size: 50px;
+    padding-top: 25vh;
+}
+
+.tables{
+    border: 1px solid;
+}
+
+#my_name{
+    color:gold;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    font-size: 1.3em;
+}
+
+.body2{
+    max-width: 80vw;
+    margin: auto;
+    padding: 2.5em;
+    text-align:center ;
+}
+
+#footer_div{
+    padding-top: 5em;
+}
+
+#table_id{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img_logo{
+    padding-right: 54px;
+}
+
+.div1_about{
+    float:left;
+    padding-right: 1em;
+    margin-top: 6.2em;
+    margin-left: -9px;
+}
+
+.div2_about{
+    margin-right: 5px;
+    padding-top: 6.2em;
+    color: #117dbf
+}
+
+#profile_img{
+    height:10vh;
+}
+
+#About_me{
+    text-align: justify;
+    font-size: 1.5em;
+}
+
+.body{
+    margin: auto;
+    padding:2.5em;
+    text-align: center;
+    font-family:monospace;
+
+    background-image: url("../img/backgrounds/blue_background.jpg");
+    background-repeat: none;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+.row{
+    clear:both;
+}
+
+.column{
+    float:left;
+    width: 33.33%;
+    margin-top: 8em;
+}
+
+.project_info{
+    color:#127ab3 ;
+    font-size: 1.5em;
+}
+
+.column2{
+    float:left;
+    width: 33.33%;
+    margin-top: 2em;
+}
+
+#myVideo{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 150%;
+    min-height: 50%;
+}
+
+.nav_game{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    /* padding: 0.1em; */
+    padding-top: 3.5em;
+    padding-bottom: 1.5em;
+}
