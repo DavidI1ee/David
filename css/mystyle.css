@@ -75,7 +75,7 @@
     text-align: center;
     font-family:monospace;
 
-    background-image: url("../img/backgrounds/blue_background.jpg");
+    background-image: url("../img/backgrounds/coloured_backgrounds/blue_background.jpg");
     background-repeat: none;
     background-size: cover;
     background-attachment:fixed;
@@ -117,6 +117,25 @@
     width: 100%;
     color: white;
     /* padding: 0.1em; */
-    padding-top: 3.5em;
-    padding-bottom: 1.5em;
+    padding-bottom: 150em;
+}
+
+#top_games{
+    max-width: 80vw;
+    margin: auto;
+    padding: 2.5em;
+    text-align:center ;
+    text-size-adjust: 90em;
+}
+
+.nav_family{
+    margin: auto;
+    padding:2.5em;
+    text-align: center;
+    font-family:monospace;
+
+    background-image: url("../img/backgrounds/FAMILY_TIME.webp");
+    background-repeat: none;
+    background-size: cover;
+    background-attachment:fixed;   
 }
